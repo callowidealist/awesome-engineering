@@ -10,14 +10,14 @@ Awesome list of engineering resources
  
  
  
- ##Automobile Engineering
+ ## Automobile Engineering
  
  
- ##Biomedical Engineering
+ ## Biomedical Engineering
  
  
- ##Computer Science Engineering
+ ## Computer Science Engineering
  
  
- ##Electronics Engineering
+ ## Electronics Engineering
  
